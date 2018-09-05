@@ -4,9 +4,9 @@ using System.Linq;
 using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartup(typeof(WebApplication1.Startup))]
+[assembly: OwinStartup(typeof(QuickSnippAPI.Startup))]
 
-namespace WebApplication1
+namespace QuickSnippAPI
 {
     public partial class Startup
     {

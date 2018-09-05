@@ -13,11 +13,11 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.OAuth;
-using WebApplication1.Models;
-using WebApplication1.Providers;
-using WebApplication1.Results;
+using QuickSnippAPI.Models;
+using QuickSnippAPI.Providers;
+using QuickSnippAPI.Results;
 
-namespace WebApplication1.Controllers
+namespace QuickSnippAPI.Controllers
 {
     [Authorize]
     [RoutePrefix("api/Account")]

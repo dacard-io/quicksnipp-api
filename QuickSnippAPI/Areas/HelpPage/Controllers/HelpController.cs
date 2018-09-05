@@ -1,10 +1,10 @@
 using System;
 using System.Web.Http;
 using System.Web.Mvc;
-using WebApplication1.Areas.HelpPage.ModelDescriptions;
-using WebApplication1.Areas.HelpPage.Models;
+using QuickSnippAPI.Areas.HelpPage.ModelDescriptions;
+using QuickSnippAPI.Areas.HelpPage.Models;
 
-namespace WebApplication1.Areas.HelpPage.Controllers
+namespace QuickSnippAPI.Areas.HelpPage.Controllers
 {
     /// <summary>
     /// The controller that will handle requests for the help page.

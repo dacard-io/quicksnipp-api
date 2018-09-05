@@ -1,7 +1,7 @@
 using System.Web.Http;
 using System.Web.Mvc;
 
-namespace WebApplication1.Areas.HelpPage
+namespace QuickSnippAPI.Areas.HelpPage
 {
     public class HelpPageAreaRegistration : AreaRegistration
     {

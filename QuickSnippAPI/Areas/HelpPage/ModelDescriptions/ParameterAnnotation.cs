@@ -1,6 +1,6 @@
 using System;
 
-namespace WebApplication1.Areas.HelpPage.ModelDescriptions
+namespace QuickSnippAPI.Areas.HelpPage.ModelDescriptions
 {
     public class ParameterAnnotation
     {
